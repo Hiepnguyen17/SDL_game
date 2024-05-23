@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (flappy_bỉd.vcxproj, tank_2012.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainObject.cpp
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(80,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(81,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(152,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(160,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(184,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(185,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(187,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(188,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(224,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(250,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(251,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(253,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(254,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(286,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(314,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(335,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\dự án copy\tank_2012\tank_2012\MainObject.cpp(344,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  tank_2012.vcxproj -> D:\dự án copy\tank_2012\Debug\flappy_bird.exe

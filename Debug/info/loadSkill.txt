@@ -1,0 +1,3 @@
+Equip 0
+Equipped 0
+$500 500
