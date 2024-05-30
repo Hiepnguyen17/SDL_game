@@ -1,6 +1,6 @@
 **HƯỚNG DẪN CÀI ĐẶT**
 
-Bước 1: TẢI tất cả tệP
+Bước 1: TẢI tất cả tệp 
 
 Bước 2: Tải IDE Visual Studio tại (https://visualstudio.microsoft.com/). Các bạn tải về bản Community 2022.
 Bước 3: Cài đặt thư viện SDL2 tại (https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php). Áp dụng tương tự với các thư viện mở rộng như SDL2_image, SDL2_ttf,SDL2_mixer.
